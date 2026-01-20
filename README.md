@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Sandasani Thanvi<br>💻 Full-Stack Developer <br>🚀 Passionate about Web Development<br>🔭 Currently learning React js / Node js / Mern Stack<br>🌱 Exploring DevOps, or database management<br>💡 Interested in building scalable web apps & solving real-world problems<br>📫 Reach me at https://www.linkedin.com/in/thanvi-sandasani-97188b293<br>🔭 I’m currently working on Full Stack Projects.<br>👯 I’m looking to collaborate on Web Development Projects<br>
+ Hi, I'm Sandasani Thanvi<br>💻 Full-Stack Developer <br>🚀 Passionate about Web Development<br>🔭 Currently learning Mern Stack<br>🌱 Exploring DevOps, or database management<br>💡 Interested in building scalable web apps & solving real-world problems<br>📫 Reach me at https://www.linkedin.com/in/thanvi-sandasani-97188b293<br>🔭 I’m currently working on Full Stack Projects.<br>👯 I’m looking to collaborate on Web Development Projects<br>
 
 
 ## 🌐 Socials:
